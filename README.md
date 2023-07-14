@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Toluwablaq
 - 👀 I’m interested in Machine Learning Engneer
-- 🌱 I’m currently learning machine learning
+
 
 
 <!---
