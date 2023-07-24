@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Toluwablaq
+- 👋 Hi, I’m @Toluwa_Unusual
 - 👀 I’m interested in Machine Learning Engneer
 
 
